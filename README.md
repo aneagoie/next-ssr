@@ -1,2 +1,2 @@
 # next-ssr
-For Udemy course - Server Side Rendering with Next.js
+ Server Side Rendering with Next.js

@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "isomorphic-unfetch": "^2.0.0",
-    "next": "^5.1.0",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "isomorphic-unfetch": "2.0.0",
+    "next": "9.5.3",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
   }
 }
