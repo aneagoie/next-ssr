@@ -1,10 +1,11 @@
 const Image = () => {
   return (
     <div>
-      <img src='http://www.airmadagascar.com/sites/all/themes/Porto_sub/img/illus-cameleon.png'/>
+      <img src='https://c2.staticflickr.com/6/5543/10512161245_8f46220bd6_b.jpg'/>
     </div>
   );
 }
 
 export default Image;
+
 
