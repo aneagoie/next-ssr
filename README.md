@@ -1,5 +1,5 @@
 # next-ssr
-Server Side Rendering with Next.js
+Server Side Rendering with Next.js 
 
 *visist https://zerotomastery.io/ for more*
 
